@@ -1,4 +1,4 @@
-# plusコマンド
+# talker ノード
 
 [![test](https://github.com/DaikiNakane/Ros/actions/workflows/test.yml/badge.svg)](https://github.com/DaikiNakane/Ros/actions/workflows/test.yml)
 
