@@ -1,0 +1,23 @@
+[0.682s] Invoking command in '/home/nakane/Ros/src/mypkg': PYTHONPATH=/home/nakane/Ros/build/mypkg/prefix_override:/home/nakane/Ros/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/nakane/Ros/build/mypkg/build install --record /home/nakane/Ros/build/mypkg/install.log --single-version-externally-managed
+[0.966s] running egg_info
+[0.966s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.966s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.967s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.967s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.967s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.969s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.970s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.970s] running build
+[0.970s] running build_py
+[0.970s] running install
+[0.971s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.971s]   warnings.warn(
+[0.971s] running install_lib
+[0.972s] running install_data
+[0.973s] running install_egg_info
+[0.974s] removing '/home/nakane/Ros/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.975s] Copying ../../build/mypkg/mypkg.egg-info to /home/nakane/Ros/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info
+[0.983s] running install_scripts
+[1.004s] Installing talker script to /home/nakane/Ros/install/mypkg/lib/mypkg
+[1.004s] writing list of installed files to '/home/nakane/Ros/build/mypkg/install.log'
+[1.020s] Invoked command in '/home/nakane/Ros/src/mypkg' returned '0': PYTHONPATH=/home/nakane/Ros/build/mypkg/prefix_override:/home/nakane/Ros/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/nakane/Ros/build/mypkg/build install --record /home/nakane/Ros/build/mypkg/install.log --single-version-externally-managed

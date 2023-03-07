@@ -1,0 +1,35 @@
+[0.752s] Invoking command in '/home/nakane/Ros/src/mypkg': PYTHONPATH=/home/nakane/Ros/build/mypkg/prefix_override:/home/nakane/Ros/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/nakane/Ros/build/mypkg/build install --record /home/nakane/Ros/build/mypkg/install.log --single-version-externally-managed
+[1.045s] running egg_info
+[1.045s] creating ../../build/mypkg/mypkg.egg-info
+[1.046s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[1.047s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[1.047s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[1.047s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[1.048s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[1.048s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.050s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.051s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.051s] running build
+[1.051s] running build_py
+[1.051s] creating /home/nakane/Ros/build/mypkg/build
+[1.052s] creating /home/nakane/Ros/build/mypkg/build/lib
+[1.052s] creating /home/nakane/Ros/build/mypkg/build/lib/mypkg
+[1.052s] copying mypkg/__init__.py -> /home/nakane/Ros/build/mypkg/build/lib/mypkg
+[1.052s] running install
+[1.053s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.053s]   warnings.warn(
+[1.053s] running install_lib
+[1.054s] creating /home/nakane/Ros/install/mypkg/lib/python3.10/site-packages/mypkg
+[1.054s] copying /home/nakane/Ros/build/mypkg/build/lib/mypkg/__init__.py -> /home/nakane/Ros/install/mypkg/lib/python3.10/site-packages/mypkg
+[1.055s] byte-compiling /home/nakane/Ros/install/mypkg/lib/python3.10/site-packages/mypkg/__init__.py to __init__.cpython-310.pyc
+[1.056s] running install_data
+[1.057s] creating /home/nakane/Ros/install/mypkg/share/ament_index
+[1.057s] creating /home/nakane/Ros/install/mypkg/share/ament_index/resource_index
+[1.057s] creating /home/nakane/Ros/install/mypkg/share/ament_index/resource_index/packages
+[1.057s] copying resource/mypkg -> /home/nakane/Ros/install/mypkg/share/ament_index/resource_index/packages
+[1.058s] copying package.xml -> /home/nakane/Ros/install/mypkg/share/mypkg
+[1.058s] running install_egg_info
+[1.060s] Copying ../../build/mypkg/mypkg.egg-info to /home/nakane/Ros/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info
+[1.080s] running install_scripts
+[1.099s] writing list of installed files to '/home/nakane/Ros/build/mypkg/install.log'
+[1.115s] Invoked command in '/home/nakane/Ros/src/mypkg' returned '0': PYTHONPATH=/home/nakane/Ros/build/mypkg/prefix_override:/home/nakane/Ros/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/nakane/Ros/build/mypkg/build install --record /home/nakane/Ros/build/mypkg/install.log --single-version-externally-managed
